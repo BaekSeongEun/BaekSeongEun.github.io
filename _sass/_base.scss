@@ -915,6 +915,10 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  article > h2 {
+    text-transform: capitalize;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
