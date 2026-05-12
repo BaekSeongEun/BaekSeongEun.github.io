@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. Student at <a href='https://ami.postech.ac.kr/' target='_blank'>AMI Lab</a>, POSTECH Graduate School of AI
+subtitle:
 
 profile:
   align: right
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Advanced Machine Intelligence Lab (AMI Lab)</p>
-    <p>Graduate School of Artificial Intelligence</p>
-    <p>POSTECH, Pohang, Republic of Korea</p>
     <p>seongeun@postech.ac.kr</p>
     <p style="margin-top:6px;">
       <a href="https://github.com/BaekSeongEun" target="_blank" style="margin-right:8px;"><i class="fa-brands fa-github" style="font-size:1.1rem;"></i></a>
