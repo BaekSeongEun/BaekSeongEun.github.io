@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started M.S. program at the Graduate School of Artificial Intelligence, POSTECH.
+🎓 Started M.S. program at the Graduate School of Artificial Intelligence, POSTECH.

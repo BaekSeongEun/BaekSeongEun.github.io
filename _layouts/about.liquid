@@ -56,10 +56,25 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Education -->
+    {% if page.education %}
+      <h2>education</h2>
+      <ul>
+        <li>
+          <strong>M.S.</strong> in Artificial Intelligence, Graduate School of Artificial Intelligence, POSTECH
+          <em>(2024 – present)</em>
+        </li>
+        <li>
+          <strong>B.S.</strong> in Biomedical Engineering &amp; Artificial Intelligence, Korea University
+          <em>(2020 – 2024)</em>
+        </li>
+      </ul>
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}

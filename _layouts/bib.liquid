@@ -50,6 +50,9 @@
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
+    {% if entry.under_review %}
+      <div class="author">Anonymous Authors</div>
+    {% else %}
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
 
@@ -147,6 +150,7 @@
         </i>
       {% endif %}
     </div>
+    {% endif %}
 
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
