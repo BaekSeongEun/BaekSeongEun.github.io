@@ -3,8 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-# nav: true  # uncomment this line to show Projects in the navbar
-nav: false
+# nav: true  # uncomment to re-enable Projects in the navbar
+nav: false   # set to true to show Projects in the navbar
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
