@@ -26,6 +26,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a M.S. student at the <a href="https://ami.postech.ac.kr/" target="_blank">Advanced Machine Intelligence Lab (AMI Lab)</a>, advised by <a href="https://ami.postech.ac.kr/members/tae-hyun-oh" target="_blank">Prof. Tae-Hyun Oh</a>. I am currently enrolled in the Graduate School of Artificial Intelligence at <a href="https://postech.ac.kr/" target="_blank">POSTECH</a>.
+I am a M.S. student at the <a href="https://ami.kaist.ac.kr/" target="_blank">Advanced Machine Intelligence Lab (AMI Lab)</a>, advised by <a href="https://ami.kaist.ac.kr/members/tae-hyun-oh" target="_blank">Prof. Tae-Hyun Oh</a>. I am currently enrolled in the <a href="https://ai.postech.ac.kr/" target="_blank">Graduate School of Artificial Intelligence at POSTECH</a>.
 
 My research interests include **multimodal foundation models**, **video understanding**, and **black-box optimization (Bayesian Optimization)**.
