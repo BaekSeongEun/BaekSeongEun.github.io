@@ -17,20 +17,20 @@ nav_order: 2
 
 <h3>International</h3>
 
-{% bibliography --group_by none --query @*[year=2026][venue_type=international] %}
+{% bibliography --file intl --group_by none --query @*[year=2026] %}
 
 <h3>Domestic</h3>
 
-{% bibliography --group_by none --query @*[year=2026][venue_type=domestic] %}
+{% bibliography --file dom --group_by none --query @*[year=2026] %}
 
 <h2 class="year">2025</h2>
 
 <h3>International</h3>
 
-{% bibliography --group_by none --query @*[year=2025][venue_type=international] %}
+{% bibliography --file intl --group_by none --query @*[year=2025] %}
 
 <h3>Domestic</h3>
 
-{% bibliography --group_by none --query @*[year=2025][venue_type=domestic] %}
+{% bibliography --file dom --group_by none --query @*[year=2025] %}
 
 </div>
