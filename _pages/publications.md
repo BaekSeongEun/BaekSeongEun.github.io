@@ -13,6 +13,12 @@ nav_order: 2
 
 <div class="publications">
 
+<h2 class="year">2027</h2>
+
+<h3>International</h3>
+
+{% bibliography --file intl --group_by none --query @*[year=2027] %}
+
 <h2 class="year">2026</h2>
 
 <h3>International</h3>
