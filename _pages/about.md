@@ -9,7 +9,7 @@ profile:
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>seongeun@postech.ac.kr</p>
+    <p>seongeun@kaist.ac.kr</p>
     <p style="margin-top:6px;">
       <a href="https://github.com/BaekSeongEun" target="_blank" style="margin-right:8px;"><i class="fa-brands fa-github" style="font-size:1.1rem;"></i></a>
       <a href="https://www.linkedin.com/in/baek-seong-eun-64b473276/" target="_blank" style="margin-right:8px;"><i class="fa-brands fa-linkedin" style="font-size:1.1rem;"></i></a>
@@ -26,6 +26,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a M.S. student at the <a href="https://ami.kaist.ac.kr/" target="_blank">Advanced Machine Intelligence Lab (AMI Lab)</a>, advised by <a href="https://ami.kaist.ac.kr/members/tae-hyun-oh" target="_blank">Prof. Tae-Hyun Oh</a>. I am currently enrolled in the <a href="https://ai.postech.ac.kr/" target="_blank">Graduate School of Artificial Intelligence at POSTECH</a>.
+I am a Ph.D. student at the <a href="https://ami.kaist.ac.kr/" target="_blank">Advanced Machine Intelligence Lab (AMI Lab)</a>, advised by <a href="https://ami.kaist.ac.kr/members/tae-hyun-oh" target="_blank">Prof. Tae-Hyun Oh</a>. I am currently enrolled in the <a href="https://cs.kaist.ac.kr/" target="_blank">School of Computing at KAIST</a>.
 
 My research interests include **multimodal foundation models**, **video understanding**, and **black-box optimization (Bayesian Optimization)**.
